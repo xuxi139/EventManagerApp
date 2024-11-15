@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Coding Bootcamp",
+    "description": "Intensive coding bootcamp for beginners.",
+    "date": "2025-02-01T08:30:00Z"
+  },
+  {
+    "title": "Community Service Day",
+    "description": "Volunteer to support local communities.",
+    "date": "2025-02-15T07:00:00Z"
+  },
+  {
+    "title": "Marathon",
+    "description": "Annual city marathon for all fitness levels.",
+    "date": "2025-03-01T06:00:00Z"
+  },
+  {
+    "title": "Film Festival",
+    "description": "Screening of international and local films.",
+    "date": "2025-03-20T17:00:00Z"
+  }
+]
